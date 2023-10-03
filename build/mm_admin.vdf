@@ -1,0 +1,5 @@
+"Metamod Plugin"
+{
+	"alias"	"mm_admin"
+	"file"	"addons\mm_admin\bin\win64\mm_admin"
+}
