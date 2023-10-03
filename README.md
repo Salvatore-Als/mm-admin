@@ -11,7 +11,9 @@
 ### COMMANDS
 
 mm_ban `"[U:1:58669676]"` TIME_IN_MINUTES
+
 mm_kick `"[U:1:58669676]"`
+
 mm_unban `"[U:1:58669676]"`
 
 ### CONFIG FILES
