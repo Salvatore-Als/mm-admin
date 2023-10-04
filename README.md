@@ -1,4 +1,4 @@
-## **NOT FINISHED, WORK IN PROGRESS**
+## **NOT FINISHED, you can use this plugin https://github.com/Pisex/cs2-bans **
 
 ### TODO
 
